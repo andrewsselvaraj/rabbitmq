@@ -1,0 +1,6 @@
+name: EfreelearnRabbitMq
+path: target\SpringBootRabbitMQHelloWorld-0.0.1-SNAPSHOT.jar
+memory: 512M
+instances: 2
+services:
+  - rabbitmqservice
